@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c839a5333ccbf94aaf12c213895904e, type: 3}
+  m_Name: UIManagerSetting
+  m_EditorClassIdentifier: 
+  UIRootName: '[UIRoot]'
+  UseSeparateUICamera: 0
+  ReferenceResolution: {x: 1920, y: 1080}
+  LayerSettings:
+  - {fileID: 11400000, guid: cad0f69dcd5d90542b9114c676b4361b, type: 2}
+  - {fileID: 11400000, guid: eefd883995a11f04593024913a25763b, type: 2}
+  - {fileID: 11400000, guid: f0a02aac65fe87849aab602086b763e2, type: 2}
+  - {fileID: 11400000, guid: 81a5a305a474eea4b95028fe414a984f, type: 2}
+  - {fileID: 11400000, guid: a015316ad0dbc8f4b81f832b7c12d60d, type: 2}

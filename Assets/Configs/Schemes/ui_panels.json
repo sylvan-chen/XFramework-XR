@@ -1,0 +1,19 @@
+{
+    "configs": {
+        "100001": {
+            "id": 100001,
+            "address": "MainMenu",
+            "parent_layer": "Default"
+        },
+        "100002": {
+            "id": 100002,
+            "address": "background",
+            "parent_layer": "Default"
+        },
+        "100003": {
+            "id": 100003,
+            "address": "popup",
+            "parent_layer": "Popup"
+        }
+    }
+}
